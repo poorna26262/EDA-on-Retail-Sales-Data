@@ -1,0 +1,501 @@
+Transaction ID,Date,Customer ID,Age,Gender,Product,Product Category,Quantity,Price per Unit,Total Amount
+T00159,2024-01-02,C0123,31,Male,Sneakers,Clothing,3,25.28,75.85
+T00202,2024-01-04,C0069,38,Male,Shampoo,Beauty,2,5.83,11.65
+T00090,2024-01-05,C0087,35,Female,Lamp,Home & Kitchen,4,101.13,404.53
+T00378,2024-01-08,C0040,25,Male,Cookware Set,Home & Kitchen,4,173.44,693.75
+T00385,2024-01-09,C0085,45,Female,Sneakers,Clothing,2,64.35,128.7
+T00108,2024-01-12,C0135,24,Other,Perfume,Beauty,2,19.65,39.3
+T00251,2024-01-12,C0041,20,Female,Sunscreen,Beauty,3,12.17,36.5
+T00058,2024-01-13,C0072,29,Female,Cookware Set,Home & Kitchen,3,71.2,213.59
+T00430,2024-01-15,C0094,31,Male,Blender,Home & Kitchen,4,106.33,425.32
+T00235,2024-01-16,C0091,30,Male,Smartphone,Electronics,1,43.29,43.29
+T00474,2024-01-17,C0066,21,Male,Jacket,Clothing,1,49.89,49.89
+T00226,2024-01-17,C0092,36,Male,Keyboard,Electronics,2,251.95,503.91
+T00345,2024-01-17,C0004,24,Male,Blender,Home & Kitchen,3,178.49,535.48
+T00147,2024-01-18,C0092,18,Male,Sneakers,Clothing,1,25.2,25.2
+T00213,2024-01-19,C0140,30,Female,Keyboard,Electronics,1,90.69,90.69
+T00436,2024-01-20,C0052,30,Female,Sunscreen,Beauty,3,12.09,36.26
+T00033,2024-01-20,C0037,27,Male,Jeans,Clothing,3,68.73,206.2
+T00187,2024-01-21,C0058,44,Female,Perfume,Beauty,4,64.14,256.55
+T00328,2024-01-21,C0017,35,Female,Keyboard,Electronics,3,35.92,107.77
+T00490,2024-01-22,C0070,18,Female,Yoga Mat,Sports,3,32.27,96.82
+T00482,2024-01-23,C0123,49,Female,Storage Box,Home & Kitchen,2,144.82,289.65
+T00118,2024-01-25,C0149,31,Female,Jeans,Clothing,2,28.75,57.51
+T00252,2024-01-28,C0163,30,Male,Sunscreen,Beauty,1,27.09,27.09
+T00044,2024-01-30,C0035,28,Male,Smartphone,Electronics,1,65.6,65.6
+T00063,2024-01-31,C0068,45,Female,Yoga Mat,Sports,2,111.57,223.13
+T00242,2024-01-31,C0125,18,Female,Smartwatch,Electronics,4,65.25,261.0
+T00273,2024-02-01,C0096,41,Female,Jacket,Clothing,4,36.89,147.55
+T00367,2024-02-03,C0133,41,Female,Perfume,Beauty,2,57.7,115.4
+T00116,2024-02-05,C0155,34,Female,Headphones,Electronics,1,166.8,166.8
+T00014,2024-02-05,C0015,23,Male,Smartphone,Electronics,4,213.84,855.38
+T00135,2024-02-06,C0005,42,Male,Sneakers,Clothing,2,20.66,41.31
+T00129,2024-02-08,C0069,28,Female,Sneakers,Clothing,2,61.11,122.23
+T00170,2024-02-08,C0178,34,Female,Smartphone,Electronics,4,337.2,1348.81
+T00313,2024-02-08,C0140,65,Female,Yoga Mat,Sports,2,93.23,186.47
+T00351,2024-02-08,C0098,20,Female,Jacket,Clothing,4,98.91,395.66
+T00484,2024-02-10,C0146,62,Male,Jeans,Clothing,2,22.41,44.82
+T00339,2024-02-11,C0125,45,Female,Sneakers,Clothing,1,97.67,97.67
+T00051,2024-02-12,C0051,49,Female,Shampoo,Beauty,4,34.65,138.59
+T00307,2024-02-17,C0110,30,Male,Jeans,Clothing,1,83.42,83.42
+T00276,2024-02-18,C0122,50,Female,Lamp,Home & Kitchen,3,67.1,201.3
+T00018,2024-02-19,C0135,20,Male,Jacket,Clothing,3,94.24,282.73
+T00198,2024-02-21,C0125,20,Female,Blender,Home & Kitchen,1,54.88,54.88
+T00446,2024-02-21,C0164,18,Female,Jeans,Clothing,2,25.74,51.49
+T00331,2024-02-23,C0016,22,Female,Headphones,Electronics,4,329.49,1317.98
+T00231,2024-02-25,C0138,45,Female,Perfume,Beauty,4,28.08,112.32
+T00091,2024-02-27,C0178,35,Male,Yoga Mat,Sports,3,93.66,280.97
+T00061,2024-02-28,C0178,38,Other,Running Bottle,Sports,4,69.95,279.79
+T00029,2024-02-28,C0010,22,Male,Headphones,Electronics,1,210.65,210.65
+T00174,2024-02-29,C0115,22,Male,Dumbbells,Sports,1,11.04,11.04
+T00093,2024-03-01,C0137,18,Female,Headphones,Electronics,2,77.1,154.2
+T00179,2024-03-02,C0054,26,Male,Sneakers,Clothing,3,17.0,50.99
+T00145,2024-03-02,C0017,51,Female,Dumbbells,Sports,3,104.78,314.35
+T00394,2024-03-03,C0077,36,Female,Smartwatch,Electronics,1,222.7,222.7
+T00232,2024-03-07,C0036,18,Female,Perfume,Beauty,4,29.2,116.79
+T00039,2024-03-08,C0022,63,Male,Lamp,Home & Kitchen,2,171.95,343.89
+T00472,2024-03-08,C0062,28,Male,Sunscreen,Beauty,1,20.56,20.56
+T00379,2024-03-12,C0003,44,Female,T-Shirt,Clothing,1,60.61,60.61
+T00444,2024-03-12,C0152,29,Female,T-Shirt,Clothing,4,19.87,79.47
+T00299,2024-03-13,C0038,19,Male,Headphones,Electronics,3,282.03,846.09
+T00121,2024-03-13,C0094,37,Female,Shampoo,Beauty,2,50.47,100.95
+T00386,2024-03-17,C0067,18,Female,Smartwatch,Electronics,3,136.71,410.12
+T00059,2024-03-18,C0108,42,Female,Running Bottle,Sports,3,111.88,335.63
+T00191,2024-03-18,C0131,46,Male,Lamp,Home & Kitchen,4,105.67,422.67
+T00327,2024-03-18,C0059,49,Male,Smartwatch,Electronics,4,218.3,873.19
+T00306,2024-03-19,C0132,26,Female,T-Shirt,Clothing,3,32.0,96.01
+T00253,2024-03-19,C0068,25,Male,Cookware Set,Home & Kitchen,3,17.72,53.16
+T00318,2024-03-19,C0026,55,Male,Perfume,Beauty,4,15.43,61.71
+T00287,2024-03-19,C0073,28,Female,Yoga Mat,Sports,1,21.27,21.27
+T00080,2024-03-21,C0107,52,Male,Keyboard,Electronics,2,31.19,62.37
+T00314,2024-03-21,C0155,18,Male,T-Shirt,Clothing,2,99.64,199.28
+T00144,2024-03-22,C0103,30,Female,Smartphone,Electronics,3,329.26,987.77
+T00375,2024-03-23,C0178,42,Female,Sunscreen,Beauty,2,25.63,51.26
+T00460,2024-03-24,C0156,45,Other,Running Bottle,Sports,4,32.39,129.57
+T00042,2024-03-26,C0010,32,Female,Headphones,Electronics,1,71.48,71.48
+T00097,2024-03-26,C0166,47,Female,Yoga Mat,Sports,2,36.36,72.71
+T00390,2024-03-27,C0093,38,Male,Storage Box,Home & Kitchen,3,149.13,447.39
+T00167,2024-03-27,C0169,35,Male,Blender,Home & Kitchen,1,117.12,117.12
+T00074,2024-03-29,C0001,44,Male,Smartwatch,Electronics,3,92.28,276.85
+T00354,2024-03-29,C0021,41,Other,Jeans,Clothing,4,89.73,358.92
+T00031,2024-03-31,C0076,31,Female,Shampoo,Beauty,3,28.11,84.32
+T00163,2024-03-31,C0075,27,Other,T-Shirt,Clothing,1,46.9,46.9
+T00371,2024-03-31,C0115,50,Female,Storage Box,Home & Kitchen,4,135.49,541.98
+T00407,2024-04-01,C0067,26,Female,Perfume,Beauty,2,29.4,58.79
+T00035,2024-04-01,C0031,27,Male,Cookware Set,Home & Kitchen,3,56.81,170.42
+T00347,2024-04-04,C0168,18,Male,Fitness Band,Sports,2,56.42,112.84
+T00102,2024-04-04,C0055,32,Male,Jacket,Clothing,1,86.14,86.14
+T00146,2024-04-05,C0122,52,Male,Smartphone,Electronics,2,332.35,664.7
+T00013,2024-04-05,C0106,40,Female,Face Cream,Beauty,3,7.5,22.49
+T00196,2024-04-10,C0153,22,Male,Blender,Home & Kitchen,3,40.34,121.02
+T00417,2024-04-10,C0131,36,Male,Cookware Set,Home & Kitchen,4,115.94,463.76
+T00103,2024-04-13,C0117,37,Female,Running Bottle,Sports,2,65.0,130.0
+T00243,2024-04-14,C0120,28,Male,Shampoo,Beauty,4,40.17,160.68
+T00026,2024-04-15,C0149,31,Female,Jacket,Clothing,1,77.14,77.14
+T00027,2024-04-16,C0032,33,Female,Sneakers,Clothing,1,24.9,24.9
+T00142,2024-04-16,C0071,34,Female,Shampoo,Beauty,3,47.29,141.87
+T00428,2024-04-17,C0016,61,Male,T-Shirt,Clothing,3,90.69,272.08
+T00089,2024-04-18,C0018,43,Female,Smartphone,Electronics,2,153.08,306.17
+T00125,2024-04-18,C0154,18,Female,Shampoo,Beauty,1,10.99,10.99
+T00464,2024-04-19,C0152,39,Female,Headphones,Electronics,2,37.66,75.32
+T00362,2024-04-20,C0020,32,Female,Jacket,Clothing,2,70.16,140.32
+T00017,2024-04-20,C0172,46,Female,Keyboard,Electronics,4,99.82,399.28
+T00258,2024-04-21,C0030,31,Female,Headphones,Electronics,4,33.46,133.82
+T00320,2024-04-25,C0020,36,Female,Running Bottle,Sports,4,54.67,218.68
+T00237,2024-04-25,C0109,42,Male,Jeans,Clothing,3,39.42,118.26
+T00454,2024-04-29,C0013,23,Female,Smartphone,Electronics,4,185.38,741.51
+T00365,2024-04-30,C0039,35,Female,Smartwatch,Electronics,2,91.02,182.05
+T00173,2024-05-02,C0135,34,Male,Sneakers,Clothing,4,45.68,182.72
+T00207,2024-05-04,C0034,30,Other,Sneakers,Clothing,3,50.34,151.03
+T00418,2024-05-09,C0015,26,Male,Smartwatch,Electronics,3,182.4,547.21
+T00255,2024-05-10,C0048,50,Female,Sneakers,Clothing,2,54.94,109.87
+T00052,2024-05-10,C0109,52,Female,Jeans,Clothing,1,76.84,76.84
+T00323,2024-05-12,C0064,42,Female,T-Shirt,Clothing,2,56.65,113.29
+T00055,2024-05-13,C0164,31,Female,Keyboard,Electronics,2,152.59,305.17
+T00282,2024-05-14,C0040,29,Female,T-Shirt,Clothing,4,71.12,284.49
+T00006,2024-05-14,C0021,28,Female,Smartwatch,Electronics,1,280.75,280.75
+T00137,2024-05-14,C0015,40,Other,Smartphone,Electronics,1,86.25,86.25
+T00301,2024-05-16,C0017,44,Male,Smartwatch,Electronics,4,120.2,480.82
+T00171,2024-05-16,C0139,37,Female,Keyboard,Electronics,2,309.55,619.1
+T00169,2024-05-18,C0095,42,Male,Perfume,Beauty,3,52.21,156.64
+T00291,2024-05-19,C0154,34,Female,Dumbbells,Sports,3,59.1,177.3
+T00065,2024-05-19,C0043,31,Male,Face Cream,Beauty,4,45.64,182.55
+T00211,2024-05-21,C0008,42,Female,Jacket,Clothing,1,57.99,57.99
+T00470,2024-05-23,C0111,40,Female,Jeans,Clothing,1,17.78,17.78
+T00344,2024-05-23,C0060,39,Male,Shampoo,Beauty,2,26.86,53.72
+T00238,2024-05-27,C0009,37,Other,Smartphone,Electronics,3,300.49,901.47
+T00492,2024-05-27,C0046,36,Male,T-Shirt,Clothing,2,53.65,107.29
+T00325,2024-05-29,C0102,18,Female,T-Shirt,Clothing,4,34.38,137.53
+T00424,2024-05-30,C0062,53,Male,Blender,Home & Kitchen,2,155.99,311.98
+T00002,2024-05-31,C0114,24,Male,T-Shirt,Clothing,4,84.05,336.19
+T00105,2024-06-02,C0122,31,Female,Headphones,Electronics,4,304.7,1218.82
+T00115,2024-06-02,C0013,31,Male,Lamp,Home & Kitchen,4,160.05,640.19
+T00143,2024-06-03,C0176,41,Female,Keyboard,Electronics,1,278.46,278.46
+T00200,2024-06-03,C0026,37,Male,Lamp,Home & Kitchen,3,122.38,367.14
+T00461,2024-06-03,C0039,27,Male,T-Shirt,Clothing,3,39.08,117.24
+T00015,2024-06-04,C0004,31,Female,Jacket,Clothing,2,61.46,122.91
+T00485,2024-06-04,C0049,34,Male,Smartwatch,Electronics,1,333.61,333.61
+T00400,2024-06-05,C0048,32,Male,Sneakers,Clothing,4,58.46,233.82
+T00024,2024-06-06,C0150,39,Female,T-Shirt,Clothing,4,93.97,375.89
+T00441,2024-06-06,C0055,35,Male,Keyboard,Electronics,3,73.96,221.89
+T00465,2024-06-07,C0124,47,Female,Cookware Set,Home & Kitchen,1,160.54,160.54
+T00205,2024-06-08,C0086,20,Other,Smartwatch,Electronics,2,345.99,691.97
+T00095,2024-06-10,C0030,52,Female,T-Shirt,Clothing,1,86.62,86.62
+T00322,2024-06-10,C0117,25,Female,Sneakers,Clothing,2,78.39,156.79
+T00068,2024-06-14,C0082,43,Female,Face Cream,Beauty,2,13.06,26.12
+T00218,2024-06-14,C0106,46,Male,Jacket,Clothing,4,97.08,388.33
+T00272,2024-06-17,C0025,18,Male,Smartphone,Electronics,3,191.49,574.48
+T00012,2024-06-17,C0113,29,Female,Jacket,Clothing,1,62.13,62.13
+T00224,2024-06-17,C0113,18,Female,Sneakers,Clothing,3,15.46,46.37
+T00270,2024-06-19,C0042,53,Male,Sneakers,Clothing,4,57.95,231.79
+T00410,2024-06-21,C0058,38,Male,Shampoo,Beauty,3,10.73,32.19
+T00304,2024-06-21,C0116,19,Female,Keyboard,Electronics,3,148.41,445.23
+T00076,2024-06-23,C0025,36,Female,Cookware Set,Home & Kitchen,1,91.03,91.03
+T00113,2024-06-24,C0058,41,Other,Shampoo,Beauty,3,64.97,194.9
+T00186,2024-06-25,C0037,18,Male,Jacket,Clothing,2,99.42,198.83
+T00203,2024-06-26,C0005,40,Male,Face Cream,Beauty,3,25.69,77.07
+T00107,2024-06-28,C0058,45,Male,Jeans,Clothing,3,46.01,138.02
+T00010,2024-07-04,C0174,18,Female,Smartphone,Electronics,3,170.0,510.0
+T00162,2024-07-04,C0135,27,Female,Keyboard,Electronics,3,348.08,1044.23
+T00395,2024-07-04,C0057,55,Female,Running Bottle,Sports,4,114.05,456.22
+T00349,2024-07-04,C0071,22,Male,Shampoo,Beauty,3,41.6,124.8
+T00212,2024-07-05,C0060,36,Female,Smartwatch,Electronics,1,114.02,114.02
+T00154,2024-07-06,C0071,39,Female,Lamp,Home & Kitchen,3,54.72,164.17
+T00082,2024-07-06,C0120,20,Female,Keyboard,Electronics,4,311.12,1244.49
+T00124,2024-07-06,C0048,25,Female,Headphones,Electronics,2,82.24,164.49
+T00467,2024-07-06,C0137,25,Female,T-Shirt,Clothing,3,20.02,60.07
+T00326,2024-07-07,C0172,26,Male,Headphones,Electronics,1,251.24,251.24
+T00262,2024-07-07,C0062,38,Male,Storage Box,Home & Kitchen,4,168.75,675.0
+T00070,2024-07-08,C0158,46,Female,Dumbbells,Sports,3,35.03,105.1
+T00007,2024-07-09,C0079,45,Female,Lamp,Home & Kitchen,2,106.34,212.68
+T00383,2024-07-14,C0123,28,Female,Sunscreen,Beauty,2,31.39,62.78
+T00360,2024-07-14,C0119,24,Female,Headphones,Electronics,3,96.52,289.55
+T00387,2024-07-14,C0130,30,Female,Headphones,Electronics,1,63.96,63.96
+T00096,2024-07-15,C0023,33,Female,Yoga Mat,Sports,4,68.1,272.38
+T00393,2024-07-15,C0014,68,Female,Face Cream,Beauty,3,20.81,62.44
+T00156,2024-07-15,C0083,33,Male,Dumbbells,Sports,2,107.66,215.31
+T00109,2024-07-17,C0074,37,Male,Blender,Home & Kitchen,4,121.4,485.58
+T00462,2024-07-19,C0050,39,Female,Fitness Band,Sports,3,45.06,135.19
+T00150,2024-07-21,C0092,41,Male,Storage Box,Home & Kitchen,3,173.5,520.49
+T00098,2024-07-21,C0085,40,Male,Sneakers,Clothing,3,46.04,138.12
+T00259,2024-07-21,C0074,25,Female,T-Shirt,Clothing,2,90.38,180.76
+T00397,2024-07-22,C0016,24,Male,Smartwatch,Electronics,3,89.02,267.06
+T00247,2024-07-24,C0035,30,Female,Shampoo,Beauty,2,48.4,96.8
+T00261,2024-07-24,C0155,18,Female,Blender,Home & Kitchen,2,142.53,285.06
+T00352,2024-07-25,C0151,49,Female,Lamp,Home & Kitchen,3,98.48,295.45
+T00246,2024-07-26,C0107,18,Male,Sneakers,Clothing,3,71.11,213.34
+T00019,2024-07-26,C0048,41,Male,Yoga Mat,Sports,4,49.85,199.4
+T00176,2024-07-27,C0013,48,Female,Smartphone,Electronics,4,318.44,1273.76
+T00190,2024-07-28,C0013,43,Female,Headphones,Electronics,1,214.06,214.06
+T00402,2024-08-01,C0092,50,Male,Smartphone,Electronics,2,318.27,636.54
+T00114,2024-08-03,C0058,26,Female,T-Shirt,Clothing,2,70.5,141.01
+T00239,2024-08-04,C0035,24,Female,Blender,Home & Kitchen,1,16.8,16.8
+T00184,2024-08-04,C0116,35,Female,Lamp,Home & Kitchen,3,170.28,510.83
+T00336,2024-08-05,C0025,23,Male,Storage Box,Home & Kitchen,2,66.93,133.85
+T00208,2024-08-07,C0063,39,Female,T-Shirt,Clothing,1,28.02,28.02
+T00164,2024-08-08,C0084,18,Female,T-Shirt,Clothing,4,75.68,302.73
+T00092,2024-08-08,C0098,18,Male,Dumbbells,Sports,4,18.86,75.45
+T00289,2024-08-08,C0037,25,Other,Keyboard,Electronics,1,72.63,72.63
+T00265,2024-08-11,C0102,50,Female,Blender,Home & Kitchen,4,137.86,551.42
+T00292,2024-08-13,C0106,18,Male,Smartphone,Electronics,3,349.8,1049.41
+T00045,2024-08-13,C0032,34,Male,T-Shirt,Clothing,3,65.04,195.12
+T00153,2024-08-19,C0087,23,Female,Sneakers,Clothing,2,34.61,69.22
+T00468,2024-08-20,C0131,25,Female,Storage Box,Home & Kitchen,4,156.33,625.34
+T00201,2024-08-20,C0006,33,Female,Headphones,Electronics,3,40.4,121.19
+T00084,2024-08-22,C0074,29,Male,Storage Box,Home & Kitchen,3,99.91,299.72
+T00389,2024-08-22,C0026,34,Female,Cookware Set,Home & Kitchen,3,66.33,198.98
+T00188,2024-08-23,C0034,28,Female,Face Cream,Beauty,3,29.5,88.5
+T00479,2024-08-24,C0009,28,Female,Running Bottle,Sports,2,92.9,185.79
+T00100,2024-08-25,C0028,47,Female,Running Bottle,Sports,2,14.95,29.9
+T00310,2024-08-28,C0034,21,Male,Smartwatch,Electronics,4,88.51,354.05
+T00177,2024-08-28,C0094,34,Male,Yoga Mat,Sports,1,78.66,78.66
+T00409,2024-08-28,C0054,53,Male,Lamp,Home & Kitchen,4,112.53,450.11
+T00343,2024-08-28,C0002,23,Female,Lamp,Home & Kitchen,3,27.53,82.59
+T00404,2024-08-29,C0171,47,Male,Lamp,Home & Kitchen,1,54.85,54.85
+T00254,2024-08-31,C0032,35,Other,Smartwatch,Electronics,3,189.84,569.51
+T00449,2024-08-31,C0004,22,Male,Blender,Home & Kitchen,4,94.02,376.09
+T00011,2024-09-01,C0163,33,Female,Dumbbells,Sports,3,58.33,174.99
+T00447,2024-09-02,C0083,46,Other,T-Shirt,Clothing,3,54.61,163.83
+T00473,2024-09-05,C0141,46,Female,Smartwatch,Electronics,4,267.43,1069.73
+T00459,2024-09-05,C0113,24,Female,Sunscreen,Beauty,3,63.68,191.05
+T00119,2024-09-05,C0035,53,Male,Jacket,Clothing,4,68.82,275.27
+T00149,2024-09-06,C0115,31,Female,Yoga Mat,Sports,2,80.6,161.19
+T00443,2024-09-07,C0008,42,Female,Fitness Band,Sports,4,34.46,137.86
+T00421,2024-09-13,C0033,24,Male,T-Shirt,Clothing,2,61.08,122.16
+T00330,2024-09-14,C0108,18,Female,Headphones,Electronics,4,128.73,514.93
+T00481,2024-09-15,C0120,18,Female,Running Bottle,Sports,2,69.87,139.73
+T00488,2024-09-15,C0080,58,Female,Jacket,Clothing,4,19.81,79.26
+T00172,2024-09-16,C0010,29,Male,T-Shirt,Clothing,3,84.66,253.99
+T00408,2024-09-18,C0019,43,Female,Jeans,Clothing,3,58.61,175.84
+T00244,2024-09-20,C0073,22,Female,Jacket,Clothing,4,24.44,97.74
+T00475,2024-09-20,C0166,35,Male,Sneakers,Clothing,4,47.36,189.44
+T00192,2024-09-20,C0129,44,Female,Sunscreen,Beauty,4,33.63,134.54
+T00217,2024-09-21,C0149,29,Female,Jacket,Clothing,3,33.16,99.49
+T00346,2024-09-21,C0056,18,Female,Cookware Set,Home & Kitchen,2,138.97,277.94
+T00405,2024-09-22,C0175,33,Male,Blender,Home & Kitchen,3,63.35,190.05
+T00391,2024-09-24,C0040,38,Female,Sneakers,Clothing,4,45.63,182.53
+T00498,2024-09-24,C0064,21,Male,T-Shirt,Clothing,2,27.07,54.14
+T00220,2024-09-25,C0080,26,Male,T-Shirt,Clothing,3,94.33,283.0
+T00028,2024-09-26,C0033,27,Female,Smartphone,Electronics,3,246.23,738.7
+T00440,2024-09-26,C0067,36,Female,Lamp,Home & Kitchen,1,166.67,166.67
+T00288,2024-09-26,C0170,18,Female,Perfume,Beauty,1,37.98,37.98
+T00283,2024-09-27,C0049,33,Male,Lamp,Home & Kitchen,3,151.36,454.07
+T00456,2024-10-01,C0055,28,Male,T-Shirt,Clothing,2,24.44,48.87
+T00088,2024-10-02,C0085,47,Male,Storage Box,Home & Kitchen,4,110.86,443.45
+T00008,2024-10-03,C0142,44,Male,Smartphone,Electronics,2,302.36,604.71
+T00361,2024-10-04,C0112,41,Other,Jacket,Clothing,3,64.23,192.69
+T00426,2024-10-04,C0180,43,Male,Dumbbells,Sports,2,99.34,198.67
+T00112,2024-10-04,C0100,43,Female,Keyboard,Electronics,4,112.96,451.82
+T00275,2024-10-05,C0126,31,Male,Sunscreen,Beauty,1,55.24,55.24
+T00219,2024-10-05,C0093,47,Female,T-Shirt,Clothing,4,60.75,242.99
+T00355,2024-10-06,C0113,20,Male,Cookware Set,Home & Kitchen,4,63.26,253.03
+T00199,2024-10-06,C0061,36,Female,Running Bottle,Sports,1,61.23,61.23
+T00388,2024-10-07,C0026,46,Female,Dumbbells,Sports,3,103.13,309.4
+T00140,2024-10-07,C0052,46,Female,Face Cream,Beauty,4,31.7,126.8
+T00165,2024-10-07,C0073,36,Male,T-Shirt,Clothing,4,82.24,328.98
+T00060,2024-10-08,C0130,32,Male,Smartphone,Electronics,2,253.49,506.97
+T00040,2024-10-09,C0166,26,Female,Face Cream,Beauty,3,54.52,163.57
+T00486,2024-10-12,C0126,42,Female,Storage Box,Home & Kitchen,3,88.02,264.05
+T00338,2024-10-12,C0080,30,Male,Yoga Mat,Sports,2,84.75,169.5
+T00295,2024-10-13,C0003,26,Female,Running Bottle,Sports,4,66.0,264.01
+T00337,2024-10-14,C0082,37,Male,T-Shirt,Clothing,4,86.96,347.86
+T00271,2024-10-14,C0179,26,Male,Keyboard,Electronics,3,340.9,1022.69
+T00384,2024-10-16,C0077,18,Female,Perfume,Beauty,3,35.5,106.5
+T00057,2024-10-17,C0139,40,Male,Shampoo,Beauty,3,27.0,80.99
+T00120,2024-10-17,C0009,57,Female,Smartphone,Electronics,3,118.95,356.86
+T00300,2024-10-19,C0020,31,Male,Fitness Band,Sports,1,17.46,17.46
+T00294,2024-10-21,C0144,39,Female,Jacket,Clothing,1,30.02,30.02
+T00117,2024-10-21,C0136,36,Male,Lamp,Home & Kitchen,3,136.74,410.21
+T00438,2024-10-21,C0037,56,Male,Jeans,Clothing,1,85.78,85.78
+T00316,2024-10-22,C0014,47,Female,Sneakers,Clothing,4,22.83,91.33
+T00155,2024-10-22,C0138,18,Female,Sneakers,Clothing,4,34.55,138.21
+T00046,2024-10-23,C0055,40,Male,Smartwatch,Electronics,1,343.51,343.51
+T00269,2024-10-24,C0006,44,Male,Jeans,Clothing,3,44.32,132.95
+T00372,2024-10-24,C0169,55,Male,Perfume,Beauty,4,52.96,211.85
+T00463,2024-10-26,C0037,39,Female,Jacket,Clothing,2,68.37,136.73
+T00277,2024-10-30,C0093,22,Male,Storage Box,Home & Kitchen,4,23.06,92.26
+T00434,2024-10-31,C0033,38,Male,Keyboard,Electronics,3,101.15,303.44
+T00230,2024-11-02,C0078,21,Male,Smartwatch,Electronics,3,333.38,1000.15
+T00069,2024-11-02,C0059,35,Female,Sunscreen,Beauty,2,50.12,100.24
+T00180,2024-11-02,C0123,21,Male,Face Cream,Beauty,2,41.62,83.24
+T00004,2024-11-04,C0121,25,Female,Cookware Set,Home & Kitchen,4,46.26,185.05
+T00209,2024-11-04,C0090,22,Female,Cookware Set,Home & Kitchen,2,50.28,100.56
+T00335,2024-11-04,C0123,31,Male,Sneakers,Clothing,1,13.49,13.49
+T00319,2024-11-05,C0028,44,Female,Jeans,Clothing,1,59.81,59.81
+T00356,2024-11-05,C0151,46,Male,Perfume,Beauty,3,16.07,48.2
+T00280,2024-11-08,C0132,18,Female,Storage Box,Home & Kitchen,4,113.32,453.27
+T00495,2024-11-08,C0044,38,Male,Smartwatch,Electronics,1,304.07,304.07
+T00491,2024-11-09,C0159,36,Female,Fitness Band,Sports,2,53.69,107.38
+T00081,2024-11-12,C0106,35,Other,Smartwatch,Electronics,1,250.26,250.26
+T00425,2024-11-13,C0173,20,Female,Headphones,Electronics,1,197.5,197.5
+T00221,2024-11-15,C0168,50,Female,Keyboard,Electronics,1,349.92,349.92
+T00284,2024-11-17,C0012,42,Female,Jacket,Clothing,1,48.97,48.97
+T00431,2024-11-18,C0149,56,Female,Blender,Home & Kitchen,2,169.23,338.47
+T00197,2024-11-20,C0170,18,Female,Jacket,Clothing,3,97.25,291.75
+T00290,2024-11-20,C0011,33,Other,Perfume,Beauty,2,13.95,27.91
+T00048,2024-11-25,C0058,18,Male,T-Shirt,Clothing,2,64.99,129.98
+T00266,2024-11-28,C0013,24,Male,Smartwatch,Electronics,1,298.23,298.23
+T00194,2024-11-28,C0168,29,Female,T-Shirt,Clothing,1,50.94,50.94
+T00324,2024-11-30,C0159,44,Male,Jacket,Clothing,4,92.72,370.9
+T00148,2024-11-30,C0010,53,Male,Jeans,Clothing,4,53.02,212.06
+T00350,2024-11-30,C0123,69,Male,Storage Box,Home & Kitchen,2,133.5,267.0
+T00222,2024-11-30,C0013,36,Male,Dumbbells,Sports,2,108.62,217.24
+T00166,2024-12-01,C0154,50,Male,Smartphone,Electronics,4,154.74,618.95
+T00382,2024-12-01,C0086,26,Male,Face Cream,Beauty,3,37.7,113.1
+T00101,2024-12-01,C0172,18,Female,Shampoo,Beauty,2,48.57,97.14
+T00263,2024-12-02,C0038,26,Female,Jacket,Clothing,1,54.69,54.69
+T00229,2024-12-03,C0008,28,Male,Smartphone,Electronics,2,340.92,681.85
+T00049,2024-12-03,C0057,32,Male,Smartphone,Electronics,2,179.09,358.19
+T00309,2024-12-04,C0047,26,Female,Dumbbells,Sports,4,13.32,53.27
+T00193,2024-12-05,C0109,48,Female,Smartphone,Electronics,2,234.3,468.61
+T00312,2024-12-07,C0125,25,Female,Jacket,Clothing,1,39.81,39.81
+T00158,2024-12-10,C0169,34,Male,Blender,Home & Kitchen,4,66.87,267.47
+T00493,2024-12-10,C0178,30,Male,Perfume,Beauty,1,42.9,42.9
+T00396,2024-12-10,C0172,22,Female,Headphones,Electronics,3,114.0,342.0
+T00381,2024-12-12,C0139,44,Male,Smartwatch,Electronics,3,45.02,135.06
+T00111,2024-12-12,C0013,28,Other,Headphones,Electronics,2,349.55,699.1
+T00413,2024-12-13,C0071,24,Male,Face Cream,Beauty,2,6.22,12.44
+T00037,2024-12-13,C0049,38,Male,Keyboard,Electronics,1,238.81,238.81
+T00423,2024-12-13,C0141,33,Male,Smartphone,Electronics,3,276.22,828.67
+T00073,2024-12-13,C0070,33,Female,Smartphone,Electronics,1,104.97,104.97
+T00005,2024-12-14,C0026,38,Male,T-Shirt,Clothing,4,38.11,152.45
+T00412,2024-12-14,C0132,27,Male,Lamp,Home & Kitchen,4,100.6,402.39
+T00499,2024-12-15,C0030,29,Male,Shampoo,Beauty,1,26.19,26.19
+T00249,2024-12-17,C0039,42,Male,Smartwatch,Electronics,3,336.71,1010.12
+T00363,2024-12-18,C0050,47,Male,Running Bottle,Sports,3,32.26,96.79
+T00483,2024-12-19,C0050,35,Female,Blender,Home & Kitchen,2,35.29,70.58
+T00183,2024-12-19,C0078,18,Female,Dumbbells,Sports,2,32.29,64.59
+T00373,2024-12-19,C0039,39,Female,Dumbbells,Sports,3,89.17,267.51
+T00399,2024-12-19,C0129,18,Female,Jacket,Clothing,1,31.39,31.39
+T00476,2024-12-20,C0001,30,Female,Face Cream,Beauty,2,39.18,78.36
+T00455,2024-12-20,C0179,40,Male,Blender,Home & Kitchen,1,142.01,142.01
+T00094,2024-12-21,C0075,23,Female,Blender,Home & Kitchen,1,31.57,31.57
+T00392,2024-12-22,C0096,34,Male,Yoga Mat,Sports,2,100.81,201.62
+T00286,2024-12-22,C0101,47,Female,Blender,Home & Kitchen,2,32.2,64.4
+T00376,2024-12-24,C0170,42,Male,Jeans,Clothing,1,15.26,15.26
+T00127,2024-12-24,C0058,26,Female,Smartwatch,Electronics,4,187.06,748.23
+T00250,2024-12-26,C0169,31,Male,Lamp,Home & Kitchen,2,151.81,303.62
+T00377,2024-12-27,C0016,34,Other,Dumbbells,Sports,3,16.77,50.3
+T00138,2024-12-27,C0008,23,Male,Sunscreen,Beauty,4,30.86,123.46
+T00415,2024-12-29,C0095,28,Female,Shampoo,Beauty,2,5.38,10.76
+T00182,2024-12-31,C0087,45,Male,Face Cream,Beauty,3,36.72,110.16
+T00071,2025-01-02,C0163,29,Male,T-Shirt,Clothing,3,80.54,241.63
+T00452,2025-01-03,C0139,23,Male,Sneakers,Clothing,4,76.0,304.0
+T00066,2025-01-06,C0016,33,Female,Lamp,Home & Kitchen,2,80.5,160.99
+T00297,2025-01-06,C0128,21,Male,Sunscreen,Beauty,1,12.69,12.69
+T00041,2025-01-07,C0162,37,Female,Lamp,Home & Kitchen,1,153.09,153.09
+T00439,2025-01-07,C0144,41,Male,Cookware Set,Home & Kitchen,3,44.76,134.27
+T00359,2025-01-07,C0052,40,Female,Jeans,Clothing,4,82.54,330.16
+T00457,2025-01-07,C0123,46,Female,Fitness Band,Sports,1,16.86,16.86
+T00419,2025-01-08,C0037,26,Female,Storage Box,Home & Kitchen,3,34.38,103.15
+T00210,2025-01-09,C0179,28,Male,Smartwatch,Electronics,1,267.81,267.81
+T00368,2025-01-10,C0008,53,Female,Smartwatch,Electronics,2,183.29,366.58
+T00496,2025-01-11,C0158,32,Female,Smartphone,Electronics,1,145.4,145.4
+T00077,2025-01-11,C0153,50,Male,Yoga Mat,Sports,1,35.06,35.06
+T00342,2025-01-13,C0167,24,Male,Cookware Set,Home & Kitchen,4,40.44,161.77
+T00317,2025-01-16,C0001,45,Female,Shampoo,Beauty,4,64.08,256.3
+T00110,2025-01-17,C0140,53,Female,Keyboard,Electronics,4,304.69,1218.74
+T00411,2025-01-18,C0172,25,Male,Storage Box,Home & Kitchen,4,112.27,449.07
+T00227,2025-01-22,C0039,38,Male,Storage Box,Home & Kitchen,4,154.01,616.02
+T00234,2025-01-22,C0151,47,Male,Perfume,Beauty,1,48.67,48.67
+T00435,2025-01-23,C0044,18,Male,Keyboard,Electronics,3,41.88,125.65
+T00157,2025-01-24,C0041,22,Female,Keyboard,Electronics,1,180.09,180.09
+T00293,2025-01-24,C0016,18,Female,Jeans,Clothing,3,28.69,86.06
+T00228,2025-01-24,C0138,23,Male,Fitness Band,Sports,3,30.89,92.66
+T00278,2025-01-25,C0098,38,Male,Jacket,Clothing,1,19.3,19.3
+T00341,2025-01-26,C0011,18,Male,Smartwatch,Electronics,3,68.54,205.63
+T00370,2025-01-26,C0157,28,Male,Jeans,Clothing,3,15.47,46.42
+T00106,2025-01-27,C0176,35,Female,Running Bottle,Sports,1,36.57,36.57
+T00023,2025-01-30,C0026,38,Female,Jacket,Clothing,3,35.78,107.34
+T00185,2025-01-31,C0052,18,Female,Jeans,Clothing,4,91.52,366.09
+T00256,2025-02-01,C0018,32,Female,Sneakers,Clothing,1,71.05,71.05
+T00357,2025-02-02,C0135,53,Female,T-Shirt,Clothing,4,37.63,150.54
+T00134,2025-02-02,C0110,32,Other,Smartwatch,Electronics,3,310.4,931.19
+T00445,2025-02-03,C0076,23,Male,Running Bottle,Sports,3,73.42,220.25
+T00151,2025-02-04,C0050,18,Male,Cookware Set,Home & Kitchen,2,47.77,95.53
+T00451,2025-02-05,C0016,34,Female,Sunscreen,Beauty,4,23.02,92.08
+T00030,2025-02-08,C0025,36,Male,Running Bottle,Sports,1,95.3,95.3
+T00003,2025-02-10,C0123,40,Female,Lamp,Home & Kitchen,2,47.12,94.23
+T00268,2025-02-10,C0121,52,Female,Blender,Home & Kitchen,2,111.14,222.29
+T00422,2025-02-11,C0176,40,Female,Keyboard,Electronics,2,74.66,149.33
+T00369,2025-02-11,C0160,30,Female,Perfume,Beauty,1,30.42,30.42
+T00308,2025-02-11,C0099,29,Female,T-Shirt,Clothing,1,69.34,69.34
+T00358,2025-02-12,C0141,37,Male,Headphones,Electronics,4,282.41,1129.63
+T00240,2025-02-12,C0054,18,Male,Smartphone,Electronics,3,218.84,656.53
+T00471,2025-02-12,C0049,42,Male,Dumbbells,Sports,3,24.65,73.94
+T00083,2025-02-15,C0122,22,Female,Blender,Home & Kitchen,1,56.85,56.85
+T00215,2025-02-15,C0050,23,Female,Blender,Home & Kitchen,1,146.87,146.87
+T00450,2025-02-15,C0107,35,Female,Sneakers,Clothing,3,21.76,65.27
+T00478,2025-02-16,C0050,42,Female,Shampoo,Beauty,4,49.98,199.9
+T00487,2025-02-19,C0109,39,Male,Perfume,Beauty,3,45.83,137.48
+T00420,2025-02-20,C0126,28,Female,Storage Box,Home & Kitchen,1,46.36,46.36
+T00469,2025-02-21,C0062,42,Female,Cookware Set,Home & Kitchen,2,101.61,203.22
+T00364,2025-02-21,C0054,52,Male,Headphones,Electronics,4,82.35,329.4
+T00281,2025-02-23,C0108,18,Female,Smartwatch,Electronics,1,39.61,39.61
+T00406,2025-02-24,C0071,27,Female,Storage Box,Home & Kitchen,1,61.42,61.42
+T00274,2025-02-27,C0034,27,Female,Blender,Home & Kitchen,3,141.19,423.58
+T00245,2025-03-01,C0019,42,Male,Sunscreen,Beauty,3,43.49,130.48
+T00267,2025-03-04,C0148,35,Female,Shampoo,Beauty,2,28.92,57.84
+T00315,2025-03-04,C0165,38,Female,Smartphone,Electronics,1,219.52,219.52
+T00195,2025-03-07,C0015,26,Male,Smartphone,Electronics,4,334.38,1337.51
+T00348,2025-03-08,C0038,31,Male,Shampoo,Beauty,2,38.78,77.56
+T00133,2025-03-09,C0155,46,Other,Sneakers,Clothing,3,24.45,73.36
+T00178,2025-03-13,C0152,31,Female,Cookware Set,Home & Kitchen,2,146.43,292.87
+T00497,2025-03-13,C0029,18,Female,Shampoo,Beauty,2,53.71,107.43
+T00248,2025-03-14,C0145,37,Male,Sneakers,Clothing,4,31.14,124.54
+T00257,2025-03-14,C0155,18,Male,Face Cream,Beauty,4,50.06,200.24
+T00054,2025-03-14,C0179,24,Male,Keyboard,Electronics,1,195.65,195.65
+T00128,2025-03-14,C0168,36,Male,Smartwatch,Electronics,1,306.5,306.5
+T00260,2025-03-15,C0042,32,Male,Running Bottle,Sports,4,11.54,46.15
+T00333,2025-03-17,C0053,31,Male,Headphones,Electronics,4,114.37,457.46
+T00311,2025-03-19,C0049,25,Male,Dumbbells,Sports,2,78.83,157.67
+T00353,2025-03-20,C0028,53,Male,Jeans,Clothing,1,52.61,52.61
+T00321,2025-03-23,C0051,26,Female,Keyboard,Electronics,2,252.91,505.83
+T00429,2025-03-24,C0085,39,Male,Headphones,Electronics,1,216.72,216.72
+T00043,2025-03-24,C0151,38,Male,Sunscreen,Beauty,4,8.43,33.74
+T00079,2025-03-26,C0015,43,Female,Yoga Mat,Sports,2,32.23,64.46
+T00099,2025-03-28,C0039,35,Male,Smartwatch,Electronics,4,135.95,543.8
+T00236,2025-03-28,C0076,40,Female,Dumbbells,Sports,1,82.5,82.5
+T00233,2025-03-31,C0067,40,Male,Shampoo,Beauty,2,54.61,109.21
+T00152,2025-04-02,C0032,39,Male,Headphones,Electronics,4,75.19,300.75
+T00296,2025-04-03,C0052,25,Female,Jacket,Clothing,4,97.28,389.13
+T00001,2025-04-04,C0082,32,Female,Lamp,Home & Kitchen,2,175.98,351.96
+T00122,2025-04-04,C0161,40,Female,Jeans,Clothing,3,15.95,47.84
+T00161,2025-04-05,C0039,35,Male,Running Bottle,Sports,2,94.45,188.89
+T00305,2025-04-06,C0039,30,Female,Fitness Band,Sports,1,76.84,76.84
+T00036,2025-04-07,C0022,18,Male,Face Cream,Beauty,3,50.84,152.51
+T00302,2025-04-09,C0155,37,Female,Jeans,Clothing,1,76.81,76.81
+T00223,2025-04-10,C0058,36,Female,Headphones,Electronics,3,135.18,405.54
+T00050,2025-04-10,C0091,37,Male,Cookware Set,Home & Kitchen,3,99.6,298.81
+T00279,2025-04-10,C0064,30,Male,Dumbbells,Sports,2,102.82,205.64
+T00458,2025-04-10,C0043,38,Male,Storage Box,Home & Kitchen,4,98.45,393.8
+T00032,2025-04-12,C0087,51,Male,Smartphone,Electronics,2,144.08,288.16
+T00056,2025-04-12,C0115,18,Male,Keyboard,Electronics,1,119.92,119.92
+T00067,2025-04-13,C0127,43,Other,Jeans,Clothing,3,99.89,299.66
+T00374,2025-04-14,C0016,40,Female,Headphones,Electronics,4,191.0,763.98
+T00062,2025-04-15,C0084,29,Other,Sneakers,Clothing,3,41.18,123.55
+T00329,2025-04-16,C0087,37,Male,Jeans,Clothing,2,62.11,124.22
+T00480,2025-04-18,C0092,39,Male,Jeans,Clothing,4,46.77,187.1
+T00340,2025-04-23,C0092,32,Female,Sunscreen,Beauty,1,59.43,59.43
+T00494,2025-04-25,C0177,20,Female,Perfume,Beauty,4,44.34,177.34
+T00132,2025-04-26,C0159,39,Female,Face Cream,Beauty,1,34.79,34.79
+T00398,2025-04-27,C0177,19,Other,T-Shirt,Clothing,3,43.49,130.46
+T00334,2025-04-27,C0140,26,Male,Face Cream,Beauty,2,11.21,22.42
+T00416,2025-04-28,C0174,34,Female,Jacket,Clothing,4,67.49,269.95
+T00366,2025-04-28,C0065,35,Male,Dumbbells,Sports,4,22.4,89.61
+T00104,2025-04-30,C0059,45,Female,Jacket,Clothing,2,21.32,42.65
+T00332,2025-04-30,C0092,38,Male,Jeans,Clothing,1,73.69,73.69
+T00189,2025-05-02,C0050,28,Male,Storage Box,Home & Kitchen,2,18.49,36.98
+T00489,2025-05-02,C0033,50,Female,Jacket,Clothing,3,29.88,89.64
+T00123,2025-05-03,C0018,24,Female,Sneakers,Clothing,2,15.35,30.71
+T00401,2025-05-04,C0040,45,Male,Headphones,Electronics,4,38.98,155.9
+T00403,2025-05-04,C0080,35,Male,Sneakers,Clothing,3,21.16,63.49
+T00433,2025-05-04,C0023,35,Male,Dumbbells,Sports,1,10.79,10.79
+T00009,2025-05-07,C0091,41,Female,Cookware Set,Home & Kitchen,2,29.86,59.72
+T00064,2025-05-11,C0043,44,Female,Smartphone,Electronics,1,244.47,244.47
+T00303,2025-05-13,C0001,27,Male,Perfume,Beauty,2,20.23,40.47
+T00225,2025-05-13,C0143,32,Male,T-Shirt,Clothing,2,79.47,158.93
+T00075,2025-05-15,C0087,49,Female,Shampoo,Beauty,2,51.83,103.67
+T00126,2025-05-15,C0146,29,Male,Blender,Home & Kitchen,4,81.21,324.83
+T00216,2025-05-16,C0077,37,Male,Sneakers,Clothing,1,33.87,33.87
+T00453,2025-05-18,C0009,38,Female,Jacket,Clothing,3,55.28,165.85
+T00477,2025-05-19,C0165,27,Other,Sneakers,Clothing,1,48.75,48.75
+T00141,2025-05-19,C0144,18,Female,Yoga Mat,Sports,1,102.32,102.32
+T00264,2025-05-19,C0144,36,Male,Cookware Set,Home & Kitchen,1,157.38,157.38
+T00053,2025-05-21,C0116,18,Female,Keyboard,Electronics,2,336.49,672.98
+T00214,2025-05-22,C0179,26,Female,Lamp,Home & Kitchen,4,148.06,592.22
+T00021,2025-05-22,C0125,18,Male,Dumbbells,Sports,3,83.9,251.69
+T00131,2025-05-26,C0123,36,Female,Face Cream,Beauty,3,28.55,85.65
+T00380,2025-05-27,C0103,44,Male,Headphones,Electronics,2,82.92,165.83
+T00139,2025-05-27,C0029,44,Male,Lamp,Home & Kitchen,2,153.18,306.37
+T00072,2025-05-28,C0173,33,Female,Cookware Set,Home & Kitchen,1,172.63,172.63
+T00016,2025-05-28,C0139,39,Male,Blender,Home & Kitchen,4,125.92,503.68
+T00432,2025-05-30,C0019,27,Male,Face Cream,Beauty,3,38.06,114.17
+T00038,2025-06-03,C0169,53,Male,Jacket,Clothing,2,23.3,46.6
+T00086,2025-06-03,C0103,18,Male,Smartphone,Electronics,2,263.39,526.77
+T00285,2025-06-07,C0078,26,Male,Lamp,Home & Kitchen,2,67.94,135.88
+T00437,2025-06-08,C0094,31,Female,Smartphone,Electronics,3,78.83,236.49
+T00181,2025-06-09,C0086,30,Male,Smartwatch,Electronics,2,157.94,315.87
+T00442,2025-06-09,C0056,24,Female,Keyboard,Electronics,3,99.24,297.73
+T00034,2025-06-09,C0173,18,Female,Lamp,Home & Kitchen,4,134.74,538.97
+T00160,2025-06-09,C0050,22,Female,Keyboard,Electronics,1,288.9,288.9
+T00204,2025-06-09,C0099,30,Female,Face Cream,Beauty,4,42.94,171.77
+T00136,2025-06-09,C0095,38,Female,Perfume,Beauty,2,45.1,90.2
+T00025,2025-06-10,C0157,25,Male,Cookware Set,Home & Kitchen,1,114.51,114.51
+T00298,2025-06-11,C0099,23,Female,Lamp,Home & Kitchen,4,115.03,460.13
+T00500,2025-06-13,C0131,42,Female,Keyboard,Electronics,2,276.56,553.12
+T00427,2025-06-13,C0002,26,Male,T-Shirt,Clothing,4,29.04,116.18
+T00078,2025-06-13,C0109,32,Female,Smartphone,Electronics,4,226.21,904.85
+T00130,2025-06-14,C0167,34,Male,Smartphone,Electronics,1,260.01,260.01
+T00175,2025-06-15,C0105,29,Female,Storage Box,Home & Kitchen,3,48.25,144.76
+T00047,2025-06-16,C0025,59,Female,Perfume,Beauty,3,13.91,41.72
+T00022,2025-06-16,C0055,41,Female,Shampoo,Beauty,1,49.34,49.34
+T00241,2025-06-18,C0095,53,Female,Jacket,Clothing,4,97.71,390.85
+T00085,2025-06-21,C0165,53,Male,Smartwatch,Electronics,4,153.38,613.51
+T00168,2025-06-23,C0043,30,Female,Storage Box,Home & Kitchen,2,150.38,300.77
+T00206,2025-06-23,C0175,41,Male,Headphones,Electronics,1,332.26,332.26
+T00414,2025-06-23,C0045,42,Female,Sunscreen,Beauty,1,20.31,20.31
+T00087,2025-06-24,C0068,31,Other,Smartwatch,Electronics,4,306.31,1225.24
+T00466,2025-06-26,C0007,43,Female,Dumbbells,Sports,2,46.12,92.24
+T00448,2025-06-29,C0095,44,Male,Sunscreen,Beauty,4,21.81,87.25
+T00020,2025-06-29,C0140,22,Female,Fitness Band,Sports,1,75.13,75.13
